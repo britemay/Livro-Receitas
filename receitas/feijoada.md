@@ -1,4 +1,4 @@
-# Feijoada :plate_with_cutlery:
+# Feijoada 
 
 ### Ingredientes
 
