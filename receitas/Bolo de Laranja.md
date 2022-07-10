@@ -8,7 +8,7 @@
 - 1 xícara (chá) de óleo
 - suco de 2 laranjas
 - casca de 1 laranja
-- 2 xícaras (chá) [de farinha de trigo](https://blog.tudogostoso.com.br/cardapios/tipos-de-farinha-de-trigo-diferencas-entre-elas/)
+- 2 xícaras (chá) [de farinha de trigo
 - 1 colher (sopa) de fermento
 
 ### Modo de Preparo
