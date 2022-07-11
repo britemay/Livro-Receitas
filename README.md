@@ -6,3 +6,4 @@ Olá! Seja bem vindo ao meu Livro de Receitas. :plate_with_cutlery:
 - Pudim 
 - Bolo de Laranja
 - Cocada Queimada
+- Mousse de Maracujá
