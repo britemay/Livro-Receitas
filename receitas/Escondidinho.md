@@ -1,9 +1,9 @@
 # ESCONDIDINHO 
 
 ### Ingredientes
-- 6 a 8 batatas cozidas e amassadas (purê)
-- 400 g de carne moída refogada com molho de tomate (tempere de acordo com a sua preferência)
-- 300 g de queijo mussarela
+- 6 a 8 batatas cozidas e amassadas (purê).
+- 400 g de carne moída refogada com molho de tomate.
+- 300 g de queijo mussarela.
 
 ### Modo de Preparo
 1. Faça o purê de batata e separe.
