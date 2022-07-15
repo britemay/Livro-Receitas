@@ -11,6 +11,7 @@
 1. Numa panela, junte o açúcar, a água e misture.
 
 _DICA: Use uma panela anti-aderente._
+
 2. Leve ao fogo médio e não mexa mais.
 3. Quando essa mistura começar a ficar no tom de caramelo, abaixe o fogo para o minimo.
 4. Adicione o coco todo de uma vez e começa a misturar com uma colher.
