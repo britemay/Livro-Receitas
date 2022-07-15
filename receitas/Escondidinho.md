@@ -9,5 +9,6 @@
 1. Faça o purê de batata e separe.
 2. Prepare a carne moída não muito molhada.
 3. Em um refratário coloque uma camada de purê de batata, carne moída, um pouco do queijo, purê de batata, carne moída e o restante do queijo.
-4. Leve ao forno até que doure o queijo.
+4. Leve ao forno até que doure o queijo. 
+ 
 _Dica: Pode também ser colocado em cima um pouco de queijo parmesão._
