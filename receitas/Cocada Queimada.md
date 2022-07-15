@@ -1,13 +1,13 @@
 # Cocada Queimada 
 
-### Ingredientes:
+### Ingredientes
 - 200g de coco em flocos.
 - 200g de açúcar.
 - 1 xícara de água.
 - 1 lata de leite condensado.
 - 1 colher (sopa) de manteiga para untar.
 
-### Modo de Preparo:
+### Modo de Preparo
 1. Numa panela, junte o açúcar, a água e misture. _DICA: Use uma panela anti-aderente._
 2. Leve ao fogo médio e não mexa mais.
 3. Quando essa mistura começar a ficar no tom de caramelo, abaixe o fogo para o minimo.
