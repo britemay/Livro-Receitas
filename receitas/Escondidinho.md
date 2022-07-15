@@ -1,4 +1,4 @@
-# ESCONDIDINHO 
+# Escondidinho
 
 ### Ingredientes
 - 6 a 8 batatas cozidas e amassadas (purê).
