@@ -4,7 +4,7 @@
 
 - 200 g de costela suína defumada cortada em pedaços.
 - 250 g de carne-seca, em pedaços.
-- meia orelha de porco cortada em pedaços.
+- ½ orelha de porco cortada em pedaços.
 - 200 g ou meio pé de porco, em pedaços.
 - 100 g ou meio rabo de porco cortado em pedaços.
 - 300 g ou 1 pedaço de lombo suíno defumado, em cubos.
