@@ -17,7 +17,7 @@
 - 2 sachês de MAGGI® Tempero & Sabor Feijão
 - 3 colheres (sopa) de cheiro-verde picado
 
-### Modo de preparo
+### Modo de Preparo
 
 1. Na véspera, lave bem a costela, a carne-seca, a orelha, o pé, o rabo de porco e o lombo, e deixe de molho por 24 horas na geladeira, trocando a água no mínimo 4 vezes.
 2. Escolha o feijão e deixe de molho por 2 horas. Em uma panela de pressão, coloque o feijão, cubra com a água e cozinhe, em fogo médio, por 25 minutos, após abrir fervura.
