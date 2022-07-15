@@ -1,6 +1,6 @@
 # Pão de Queijo 
 
-### Ingredientes.
+### Ingredientes
 - 1 copo de água.
 - 1 copo de leite.
 - 1/2 copo de óleo.
