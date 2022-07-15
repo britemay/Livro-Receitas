@@ -1,13 +1,13 @@
 # Pão de Queijo 
 
-### Ingredientes
-- 1 copo de água
-- 1 copo de leite
-- 1/2 copo de óleo
-- 1 colher (sobremesa) de sal
-- 200 g de queijo mussarela
-- 1 pacote de queijo parmesão
-- 500 g de polvilho azedo
+### Ingredientes.
+- 1 copo de água.
+- 1 copo de leite.
+- 1/2 copo de óleo.
+- 1 colher (sobremesa) de sal.
+- 200 g de queijo mussarela.
+- 1 pacote de queijo parmesão.
+- 500 g de polvilho azedo.
 
 ### Modo de Preparo
 1. Em uma panela, coloque a água, o leite, o óleo e o sal.
