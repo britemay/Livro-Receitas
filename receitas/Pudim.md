@@ -2,12 +2,12 @@
 
 ### Ingredientes
 
-- 10 colheres (sopa) de leite em pó
-- 10 colheres (sopa) de açúcar
-- 250 ml de água
-- 250 ml de leite de caixinha
-- 2 ovos
-- Açúcar para caramelizar
+- 10 colheres (sopa) de leite em pó.
+- 10 colheres (sopa) de açúcar.
+- 250 ml de água.
+- 250 ml de leite de caixinha.
+- 2 ovos.
+- Açúcar para caramelizar.
 
 ###  Modo de preparo
 
