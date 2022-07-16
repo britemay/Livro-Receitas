@@ -2,6 +2,7 @@
 
 Olá! Seja bem vindo ao meu Livro de Receitas. :plate_with_cutlery:
 
+- [Batata Gratinada com Bacon](https://github.com/etirbyam/Livro-Receitas/blob/master/receitas/Batata%20Gratinada%20com%20Bacon.md)
 - [Bolo de Laranja](https://github.com/etirbyam/Livro-Receitas/blob/master/receitas/Bolo%20de%20Laranja.md)
 - [Cocada Queimada](https://github.com/etirbyam/Livro-Receitas/blob/master/receitas/Cocada%20Queimada.md)
 - [Escondidinho](https://github.com/etirbyam/Livro-Receitas/blob/master/receitas/Escondidinho.md)
