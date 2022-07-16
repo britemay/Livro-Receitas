@@ -5,7 +5,7 @@
 - 200g de açúcar.
 - 1 xícara de água.
 - 1 lata de leite condensado.
-- 1 colher (sopa) de manteiga para untar.
+- 1 colher de manteiga para untar.
 
 ### Modo de Preparo
 1. Numa panela, junte o açúcar, a água e misture. _DICA: Use uma panela anti-aderente._
