@@ -5,8 +5,8 @@
 -  4 ovos.
 - 2 xícaras (chá) de açúcar.
 - 1 xícara (chá) de óleo.
-- suco de 2 laranjas.
-- casca de 1 laranja.
+- Suco de 2 laranjas.
+- Casca de 1 laranja.
 - 2 xícaras (chá) de farinha de trigo.
 - 1 colher (sopa) de fermento.
 
